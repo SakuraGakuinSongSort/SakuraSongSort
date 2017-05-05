@@ -25,7 +25,7 @@ var bln_ProgessBar = 1;
 var maxRows = 20;
 
 // * タイトル情報（編集可能。最後の行に”,”を付けないようにしてください）
-var int_Colspan = 7;
+var int_Colspan = 8;
 var ary_TitleData = [
   "Message",
   "Friends",
