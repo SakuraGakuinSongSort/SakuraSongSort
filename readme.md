@@ -1,5 +1,5 @@
-# sakura gakuin sort /bmsg/ edition
-
+# sakura gakuin sort Taima Club edition
+Orignal:
 http://sakurasort.github.io/
 
 add new members in js/fnc_data_v2.js and images in img
